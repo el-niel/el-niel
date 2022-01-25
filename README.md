@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @el-niel
-- 👀 I’m interested in music, software development, open to new ideas, photograhy
+- 👀 I’m a software developer, open to new ideas, javascript knight
 - 🌱 I’m currently learning javascript, react, mongoDB, next.js
 - 💞️ I’m looking to collaborate on lots and lots of projects
 - 📫 How to reach me email: kingadeola9@gmail.com
